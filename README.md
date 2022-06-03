@@ -1,7 +1,7 @@
 <h1>VAMOS COMEÇAR A AVENTURA!🚀 <s>APERTEM OS CINTOS</s></h1>
 
 
-<h2>Desafio do dia: <>Popular esse repositório</h2>
+<h2>Desafio do dia: Popular esse repositório</h2>
 <br>
 <h3>1) CLONE O REPOSITÓRIO</h3>
 <br>
